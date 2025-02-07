@@ -8,4 +8,4 @@ def download_images(keyword, num_images=5):
     downloader(keyword, limit=num_images)
 
 # Example usage
-download_images("good morning", num_images=1000)
+download_images("Isagi Yoichi", num_images=1000)
